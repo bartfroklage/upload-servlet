@@ -1,5 +1,11 @@
 <html>
+
+<head>
+    <title>Upload page</title>
+</head>
+
 <body>
-<h2><%= "Hello World!" %></h2>
+    <a href="upload.jsp">upload.jsp</a>
 </body>
+
 </html>
